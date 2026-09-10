@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.0"
   latestRelease: "v2.1.0"
   latestPrerelease: "v1.1.0rc1"
-  collectedAt: 2026-09-10T04:47:04Z
+  collectedAt: 2026-09-10T16:26:47Z
 timeline:
   created: 2020-06-11
   lastCommit: 2026-05-22
@@ -83,7 +83,7 @@ total:
   commit: 59
 ---
 path: /home/runner/.x-repo/github.com/P403n1x87/austin-tui
-collectedAt: 2026-09-10T04:47:05Z
+collectedAt: 2026-09-10T16:26:51Z
 loc:
   Svg:
     code: 23035
