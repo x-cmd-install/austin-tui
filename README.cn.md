@@ -4,7 +4,7 @@
 
 The top-like text-based user interface for Austin
 
-![austin-tui](https://repo.x-cmd.io/austin-tui.svg)
+![austin-tui](https://repo.x-cmd.io/austin-tui.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install austin-tui
 
 - **最新版本**: `v2.1.0` (2026-06-04)
 - **最近提交**: 2026-05-22
-- **发布时间**: 2026-06-04T12:51:16Z
 
 ## 流行度
 
@@ -70,4 +69,4 @@ austin-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:47:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:01Z._
