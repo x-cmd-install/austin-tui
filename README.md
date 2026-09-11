@@ -12,6 +12,28 @@ The top-like text-based user interface for Austin
 x install austin-tui
 ```
 
+## Code insight
+
+Total: **26,618** lines of code across **40** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Svg | 23,035 | 0 | 0 | 1 |
+| Python | 3,483 | 522 | 924 | 31 |
+| Toml | 100 | 22 | 26 | 1 |
+| Autoconf | 0 | 0 | 0 | 1 |
+| Markdown | 0 | 853 | 242 | 6 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.2 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/P403n1x87/austin-tui>
@@ -34,31 +56,12 @@ x install austin-tui
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 7 | 16 | 1 | 4 | 0 | 16 |
-
-## Code size
-
-Total: **26,618** lines of code across **40** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Svg | 23,035 | 0 | 0 | 1 |
-| Python | 3,483 | 522 | 924 | 31 |
-| Toml | 100 | 22 | 26 | 1 |
-| Autoconf | 0 | 0 | 0 | 1 |
-| Markdown | 0 | 853 | 242 | 6 |
-
-## OpenSSF Scorecard
-
-Overall score: **3.2 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 5 | 10 | 0 | 0 | 0 | 11 |
+| 360d | 2025-09-16 | 7 | 16 | 1 | 4 | 0 | 16 |
+| last720d | 2024-09-21 | 8 | 17 | 1 | 8 | 0 | 17 |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for austin-tui lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:27:00Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:10:30Z._
